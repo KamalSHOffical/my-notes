@@ -36,6 +36,8 @@ After i finished reading [this article](https://www.freecodecamp.org/news/learn-
 
 1. If you get confused, **ask for help!**
 
+2. Everything takes longer than you think, make a schedual for your tasks, finish easier one, than take your time with big one, **BUT DON'T FORGET ABOUT DEADLINE!**
+
 And keep in mind, ***DON'T EVER LEAVE CODING!***
 
 Have a nice day! :)
