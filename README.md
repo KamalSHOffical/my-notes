@@ -24,7 +24,7 @@ After i finished reading [this article](https://www.freecodecamp.org/news/learn-
 
 2. **Simplicity**, make sure to write a simple and easy-to-understand code, so you or your teammates won't get *frustrated* about what you wrote! And ***if your project has complex codes***, just add comments to explain them.
 
-1. **Keep your project up-to-date**, your project should be maintained and be updated periodly.
+1. **Keep your project up-to-date**, your project should be maintained and be updated periodically.
 
 1. **Develop your problem-solving skills**, as a developer, you will face new challenges everyday, maybe annoying bugs.
 
@@ -36,7 +36,7 @@ After i finished reading [this article](https://www.freecodecamp.org/news/learn-
 
 1. If you get confused, **ask for help!**
 
-2. Everything takes longer than you think, make a schedual for your tasks, finish easier one, than take your time with big one, **BUT DON'T FORGET ABOUT DEADLINE!**
+2. Everything takes longer than you think, make a schedule for your tasks, finish easier one, than take your time with big one, **BUT DON'T FORGET ABOUT DEADLINE!**
 
 And keep in mind, ***DON'T EVER LEAVE CODING!***
 
